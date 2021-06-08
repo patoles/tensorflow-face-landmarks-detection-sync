@@ -15,7 +15,7 @@
  * =============================================================================
  */
 
-import * as blazeface from '@tensorflow-models/blazeface';
+import * as blazeface from 'tensorflow-blazeface-sync';
 import * as tfconv from '@tensorflow/tfjs-converter';
 import * as tf from '@tensorflow/tfjs-core';
 

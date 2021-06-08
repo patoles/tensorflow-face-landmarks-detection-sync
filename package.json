@@ -1,6 +1,6 @@
 {
-  "name": "@tensorflow-models/face-landmarks-detection",
-  "version": "0.0.3",
+  "name": "tensorflow-face-landmarks-detection-sync",
+  "version": "0.1.1",
   "description": "Pretrained face landmarks detection model",
   "main": "dist/index.js",
   "jsnext:main": "dist/face-landmarks-detection.esm.js",
@@ -17,7 +17,7 @@
     "@tensorflow/tfjs-core": "^3.6.0"
   },
   "dependencies": {
-    "@tensorflow-models/blazeface": "0.0.7",
+    "tensorflow-blazeface-sync": "0.1.0",
     "rimraf": "^3.0.2"
   },
   "devDependencies": {

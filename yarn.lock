@@ -64,11 +64,6 @@
     "estree-walker" "^1.0.1"
     "picomatch" "^2.2.2"
 
-"@tensorflow-models/blazeface@0.0.7":
-  "integrity" "sha512-+hInPkvHJoubfiXlmNuF3SCucZvU6W1PMC25IV99NSAftJUpKvLokfF93iX8UkOFQCXkPFbnLKacGfGlbjgvMw=="
-  "resolved" "https://repo.curiostack.com/repository/npm/@tensorflow-models/blazeface/-/blazeface-0.0.7.tgz"
-  "version" "0.0.7"
-
 "@tensorflow/tfjs-backend-cpu@^3.6.0":
   "integrity" "sha512-ZpAs17hPdKXadbtNjAsymYUILe8V7+pY4fYo8j25nfDTW/HfBpyAwsHPbMcA/n5zyJ7ZJtGKFcCUv1sl24KL1Q=="
   "resolved" "https://repo.curiostack.com/repository/npm/@tensorflow/tfjs-backend-cpu/-/tfjs-backend-cpu-3.6.0.tgz"
@@ -1101,6 +1096,11 @@
   "version" "7.2.0"
   dependencies:
     "has-flag" "^4.0.0"
+
+"tensorflow-blazeface-sync@0.1.0":
+  "integrity" "sha512-6DAwlV0ECTlph9KJq97jTmw7uT1gzMbpZO9AkZxCKPnGfy6UXmZv1qoF/BS/Ur4uzs8KLj8PErnwBOyw8BDKnA=="
+  "resolved" "https://repo.curiostack.com/repository/npm/tensorflow-blazeface-sync/-/tensorflow-blazeface-sync-0.1.0.tgz"
+  "version" "0.1.0"
 
 "terser@^4.6.2":
   "integrity" "sha512-EAPipTNeWsb/3wLPeup1tVPaXfIaU68xMnVdPafIL1TV05OhASArYyIfFvnvJCNrR2NIOvDVNNTFRa+Re2MWyw=="
